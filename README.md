@@ -2,6 +2,6 @@
 1. It is an chat app built using React JS and socket.io
 2. Here users can get access by creating a new id.
 # Set Up
-Download all the necessary node modules in the server and client folder using the command: npm install <br>
-To run the server use: node index.js <br>
-To run the client use: npm start <br>
+Download all the necessary node modules in the server and client folder using the command: **npm install** <br>
+To run the server use: **node index.js** <br>
+To run the client use: **npm start** <br>
